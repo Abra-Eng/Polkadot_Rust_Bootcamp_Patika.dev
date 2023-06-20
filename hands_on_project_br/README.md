@@ -1,4 +1,5 @@
 # Finding max value of an array of integers
+## A basic program that uses ownership concepts
 
 **Created array**
 ```rust
